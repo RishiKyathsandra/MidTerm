@@ -1,0 +1,70 @@
+
+<link rel="stylesheet" href="style.css" />
+
+<body>
+
+	<header class="header">
+		<nav>
+		  <ul>
+			  <li><a href="index.html">HOME</a></li>
+			  <li><a href="../index.html">GAME</a></li>
+			  <li><a href="/Shoes/credits.html">ABOUT US</a></li>
+			  <li><a href="https://youtu.be/dQw4w9WgXcQ">CONTACT US</a></li>
+		  </ul>
+		  </nav>
+		</header>
+
+
+  <div class="popup" id="popup-1">
+    <div class="overlay"></div>
+    <div class="content">
+      <div class="close-btn" onclick="togglePopup1()">&times;</div>
+	  <h1>Latest Hat Arrivals</h1>
+	  <p>Once on top, stay on the top. These caps don't leave no laps!</p>
+	  <a href="Hats/index.html">Hat Catalog</a>
+    </div>
+  </div>
+
+  <div class="popup" id="popup-2">
+    <div class="overlay"></div>
+    <div class="content">
+      <div class="close-btn" onclick="togglePopup2()">&times;</div>
+
+      <h1>Latest Jacket Arrivals</h1>
+      <p>The jackets are liket rockets. Get them fast for a blast.</p>
+	  <a href="Jackets/index.html">Jacket Catalog</a>
+    </div>
+  </div>
+
+  <div class="popup" id="popup-3">
+    <div class="overlay"></div>
+    <div class="content">
+      <div class="close-btn" onclick="togglePopup3()">&times;</div>
+
+      <h1>Latest Pants Arrivals</h1>
+      <p>This is the pants...</p>
+	  <a href="Pants/index.html">Pants</a>
+    </div>
+  </div>
+
+  <div class="popup" id="popup-4">
+    <div class="overlay"></div>
+    <div class="content">
+      <div class="close-btn" onclick="togglePopup4()">&times;</div>
+
+      <h1>Latest Shoe Arrivals</h1>
+      <p>This is the start of every fit. Make or break it. Good luck</p>
+	  <a href="Shoes/index.html">Shoes</a>
+    </div>
+  </div>
+
+  <canvas
+    id="canvas"
+    width="500"
+    height="500"
+    style="border: 1px solid #000000"
+  ></canvas>
+
+  <script src="Entities.js"></script>
+  <script src="index.js"></script>
+</body>

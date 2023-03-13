@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Mens Khakhis",
+      "description": "Casual wear and style",
+      "price": 10.99,
+      "image": "images/product1.jpg",
+      "rating": 3
+    },
+    {
+      "id": 2,
+      "name": "Funky Pajamas",
+      "description": "Comfort wear",
+      "price": 19.99,
+      "image": "images/product2.jpg",
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "name": "Torn Jeans",
+      "description": "Style wear",
+      "price": 7.99,
+      "image": "images/product3.jpg",
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "name": "Womens Jeans",
+      "description": "Casual wear and style",
+      "price": 12.99,
+      "image": "images/product4.jpg",
+      "rating": 2
+    },
+    {
+      "id": 5,
+      "name": "Womens Joggers",
+      "description": "Casual wear and comfort",
+      "price": 24.99,
+      "image": "images/product5.jpg",
+      "rating": 4
+    },
+    {
+      "id": 6,
+      "name": "Womens Overalls",
+      "description": "Style wear",
+      "price": 9.99,
+      "image": "images/product6.jpg",
+      "rating": 3
+    }
+  ]
+  

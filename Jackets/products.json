@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Classic White Hoodie",
+    "description": "100 percent cotton",
+    "price": 10.99,
+    "image": "images/product1.jpg",
+    "rating": 3
+  },
+  {
+    "id": 2,
+    "name": "Zip up Jacket",
+    "description": "100 percent polyester",
+    "price": 19.99,
+    "image": "images/product2.jpg",
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "name": "Classic Black Hoodie",
+    "description": "100 percent cotton",
+    "price": 7.99,
+    "image": "images/product3.jpg",
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "name": "Blue Varsity Jacket",
+    "description": "Casual and style wear",
+    "price": 12.99,
+    "image": "images/product4.jpg",
+    "rating": 2
+  },
+  {
+    "id": 5,
+    "name": "Red Varsity Jacket",
+    "description": "Casual and style wear",
+    "price": 24.99,
+    "image": "images/product5.jpg",
+    "rating": 4
+  },
+  {
+    "id": 6,
+    "name": "Baseball Jacket",
+    "description": "Sportswear and casual wear",
+    "price": 9.99,
+    "image": "images/product6.jpg",
+    "rating": 3
+  }
+]

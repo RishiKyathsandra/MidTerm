@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Air Janardhan",
+      "description": "Running shoes and multipurpose",
+      "price": 10.99,
+      "image": "images/product1.jpg",
+      "rating": 3
+    },
+    {
+      "id": 2,
+      "name": "Ice cream Vans",
+      "description": "Casual wear and style",
+      "price": 19.99,
+      "image": "images/product2.jpg",
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "name": "Old Balance 550",
+      "description": "Tennis and running shoes",
+      "price": 7.99,
+      "image": "images/product3.jpg",
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "name": "Sparky 3000s",
+      "description": "Dance and style wear shoes",
+      "price": 12.99,
+      "image": "images/product4.jpg",
+      "rating": 2
+    },
+    {
+      "id": 5,
+      "name": "Blue whale 500s",
+      "description": "Aquatic wear and swimming",
+      "price": 24.99,
+      "image": "images/product5.jpg",
+      "rating": 4
+    },
+    {
+      "id": 6,
+      "name": "CarHeart 200s",
+      "description": "Software engineer shoes",
+      "price": 9.99,
+      "image": "images/product6.jpg",
+      "rating": 3
+    }
+  ]
+  
